@@ -1,6 +1,6 @@
 # DungeonsAndGoblins   
 
-Dungeons & Goblins is a single-player rogulike game where you take on a role as an adventurer who dared to step into the depth of the unknown and conquer a dangerous dungeon packed with enemies, foes and various items.
+Dungeons & Goblins is a single-player rogulike game where you take on a role as an adventurer who dared to step into the depth of the unknown and conquer a dangerous dungeon packed with enemies, allies and various items.
 
 --- 
 
